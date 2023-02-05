@@ -1,0 +1,12 @@
+{
+    "name": "com.iup.inspector-attributes",
+    "version": "1.0.0",
+    "displayName": "IUP Inspector Attributes",
+    "description": "Пакет дополнительных атрибутов для кастомизации инспектора Unity3D.",
+    "author": {
+      "name": "PostEnot",
+      "email": "ve.vyshegorodsky.cold@gmail.com",
+      "url": "https://t.me/ProcyonNihil"
+    },
+    "type": "library"
+}
